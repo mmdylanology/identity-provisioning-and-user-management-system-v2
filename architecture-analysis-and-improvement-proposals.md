@@ -1,7 +1,7 @@
 # Multi-Service Architecture Analysis & Recommendations
 ## Production vs POC Comparison with AWS Kubernetes Cost Analysis
 
-**Author**: AI Architecture Team  
+**Author**: Architecture and Security Team  
 **Date**: December 11, 2025  
 **Version**: 1.0  
 **Status**: Proposal for Review
